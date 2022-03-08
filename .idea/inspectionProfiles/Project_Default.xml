@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="DjangoPythonCognito" />
+            <item index="2" class="java.lang.String" itemvalue="Anubis" />
+            <item index="3" class="java.lang.String" itemvalue="PythonCognito" />
+            <item index="4" class="java.lang.String" itemvalue="PythonLogging" />
+            <item index="5" class="java.lang.String" itemvalue="mod-wsgi" />
+            <item index="6" class="java.lang.String" itemvalue="FinancialModel" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="drf_alchemy_project.drf_alchemy_app.repositories.clinic.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.components.clinic.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.repositories.doctor.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.components.doctor.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.repositories.patient.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.components.patient.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.components.appointments.*" />
+          <option value="drf_alchemy_project.drf_alchemy_app.repositories.appointments.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
